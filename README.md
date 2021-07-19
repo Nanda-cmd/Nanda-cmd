@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanda-cmd
-- 👀 I’m interested in Creating Ui and Games
-- 🌱 I’m currently learning Game Development in Python
+- 👀 I’m interested in Creating UI and Games
+- 🌱 I’m currently learning Game Development in Unity
 - 💞️ I’m looking to collaborate on Monumentopia, Brother's Game Development
 - 📫 How to reach me nkm8213@gmail.com
 
