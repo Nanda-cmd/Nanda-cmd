@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanda-cmd
 - 👀 I’m interested in Creating UI and Games
 - 🌱 I’m currently learning AI-Bot development
-- 💞️ I’m collaborate in Schemeasy, Game devs
+- 💞️ I’m collaborating in Schemeasy, Game devs
 - 📫 How to reach me nkm8213@gmail.com
 
 <!---
